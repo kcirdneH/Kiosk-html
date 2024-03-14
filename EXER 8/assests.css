@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+     
+
+.container {
+    display: flex; 
+  }
+
+
+  /*ASSETS NG MGA PHONE SPECS*/
+  .specs {
+    flex: 1; 
+    text-align: center; 
+  }
+  .specs .phonePics {
+    width: 140px; 
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .specs .phoneNames {
+    margin-top: 10px; 
+  }
+  .specs .Specs {
+    margin-bottom: 50px;
+    font-family: 'product sans', sans-serif;
+  }
+  .Specs {
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid rgb(202, 202, 202);
+    background-color: white;
+    margin: 0;
+    border-radius: 9%;
+  }
+  /*ASSETS NG MGA PHONE SPECS*/
+
+
+
+
+  .phoneNames{
+    font-family: 'product sans', sans-serif;
+  }
+  .budsNames{
+    font-family: 'product sans', sans-serif;
+  }
+  .tabNames{
+    font-family: 'product sans', sans-serif;
+  }
+  .buttons {
+    font-family: 'product sans', sans-serif;
+    border: 1px solid rgb(202, 202, 202);
+    background-color: white;
+    border-radius: 6%;
+    
+  }
+
+  .buttonsEnter {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid;
+    color: rgb(0, 0, 0);
+    margin: 30px 2px;
+    cursor: pointer;
+    font-family: 'product sans', sans-serif;
+    font-size: 45px;
+  
+}
+.buttonsEnter {
+  height: 50px;  
+  width: 140px;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #000000;
+  font-size: 16px;
+  outline: none;
+  border: 2px solid #ffffff;
+  cursor: pointer;
+  font-weight: 600;
+  z-index: 1;
+  position: relative;
+  overflow: hidden;
+
+}
+
+
+ 
+
